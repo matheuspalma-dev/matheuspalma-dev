@@ -80,5 +80,3 @@ Alguns dos projetos que fazem parte da minha trajetória:
 </a>
 
 </div>
-
-````
